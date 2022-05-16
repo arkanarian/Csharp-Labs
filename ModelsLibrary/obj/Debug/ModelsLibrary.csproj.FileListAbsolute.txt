@@ -1,0 +1,16 @@
+D:\OOP\lab1\ModelsLibrary\obj\Debug\ModelsLibrary.csproj.AssemblyReference.cache
+D:\OOP\lab1\ModelsLibrary\obj\Debug\ModelsLibrary.csproj.CoreCompileInputs.cache
+D:\OOP\lab1\ModelsLibrary\bin\Debug\ModelsLibrary.dll
+D:\OOP\lab1\ModelsLibrary\bin\Debug\ModelsLibrary.pdb
+D:\OOP\lab1\ModelsLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OOP\lab1\ModelsLibrary\bin\Debug\System.Buffers.dll
+D:\OOP\lab1\ModelsLibrary\bin\Debug\System.Memory.dll
+D:\OOP\lab1\ModelsLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\OOP\lab1\ModelsLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OOP\lab1\ModelsLibrary\bin\Debug\System.Text.Encodings.Web.dll
+D:\OOP\lab1\ModelsLibrary\bin\Debug\System.Text.Json.dll
+D:\OOP\lab1\ModelsLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OOP\lab1\ModelsLibrary\bin\Debug\System.ValueTuple.dll
+D:\OOP\lab1\ModelsLibrary\obj\Debug\ModelsLibrary.csproj.CopyComplete
+D:\OOP\lab1\ModelsLibrary\obj\Debug\ModelsLibrary.dll
+D:\OOP\lab1\ModelsLibrary\obj\Debug\ModelsLibrary.pdb

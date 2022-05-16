@@ -1,0 +1,15 @@
+D:\OOP\lab1\app\obj\Debug\app.csproj.AssemblyReference.cache
+D:\OOP\lab1\app\obj\Debug\app.csproj.SuggestedBindingRedirects.cache
+D:\OOP\lab1\app\obj\Debug\app.MainForm.resources
+D:\OOP\lab1\app\obj\Debug\app.Properties.Resources.resources
+D:\OOP\lab1\app\obj\Debug\app.csproj.GenerateResource.cache
+D:\OOP\lab1\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+D:\OOP\lab1\app\bin\Debug\app.exe.config
+D:\OOP\lab1\app\bin\Debug\app.exe
+D:\OOP\lab1\app\bin\Debug\app.pdb
+D:\OOP\lab1\app\obj\Debug\app.exe
+D:\OOP\lab1\app\obj\Debug\app.pdb
+D:\OOP\lab1\app\obj\Debug\app.ucHomePage.resources
+D:\OOP\lab1\app\obj\Debug\app.ucRegisterPageClient.resources
+D:\OOP\lab1\app\obj\Debug\app.ucLoginPage.resources
+D:\OOP\lab1\app\obj\Debug\app.ucRegisterPageEnterprise.resources

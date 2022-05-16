@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ModelsLibrary.DataBaseMovings">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIFAAEAgQgCCAAAIAAAgAAAIkAQAgCAAAA=</HashCode>
+      <FileName>DataBaseMovings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelsLibrary.Entities.BankAccount">
+    <Position X="6" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAIAACAAAAAAAggAAAAAAAAAAAAAAKAAAAAAAAA=</HashCode>
+      <FileName>Entities\Accounts\BankAccount.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ModelsLibrary.Entities.ClientBankAccount">
+    <Position X="4.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAABAAAAAAAAAAAAAAAEAABAAAAAAg=</HashCode>
+      <FileName>Entities\Accounts\ClientBankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelsLibrary.Entities.CompanyBankAccount">
+    <Position X="7" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAACACAAAACAAAAAAAAAKA=</HashCode>
+      <FileName>Entities\Accounts\CompanyBankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelsLibrary.Entities.SalaryProjectAccount">
+    <Position X="4.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Entities\Accounts\SalaryProjectAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelsLibrary.Entities.Actions">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAABAgEAAAACAAAAAAIAAIAAACAQAAAABABAAAAA=</HashCode>
+      <FileName>Entities\Actions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelsLibrary.Entities.MyException">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\AppException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelsLibrary.Entities.Bank" BaseTypeListCollapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAgAAAAABAAAQAgAAAABgASGAAAAAoAAA=</HashCode>
+      <FileName>Entities\Bank\Bank.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ModelsLibrary.Entities.Credit">
+    <Position X="15.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Bank\Credit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelsLibrary.Entities.PayPlan" Collapsed="true">
+    <Position X="15.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Bank\PayPlan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelsLibrary.Entities.Transaction" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAEBAAAgAAAAAAAAAAAAAAAAAAAAAABAAAAEAQ=</HashCode>
+      <FileName>Entities\Bank\Transaction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ModelsLibrary.Entities.Log">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAIAAUEAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Entities\Log.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelsLibrary.Entities.FinancialSystem">
+    <Position X="21" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACIAAAIISAAAgIAgAoAFAEggggmZBQNABAAICAAkEQ=</HashCode>
+      <FileName>Entities\System\FinancialSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelsLibrary.Entities.Administrator" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAgAAAAACAACAIAQAAAAAAA=</HashCode>
+      <FileName>Entities\User\Administrator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ModelsLibrary.Entities.ClientUser" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUAAACAAAAAABABAAAwAAAAICAACEIARSCAAgAg=</HashCode>
+      <FileName>Entities\User\ClientUser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.311" />
+  </Class>
+  <Class Name="ModelsLibrary.Entities.CompanyUser" BaseTypeListCollapsed="true">
+    <Position X="3" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQQAAACAAACAAAAAAAAgAAACICACCAKAQAAAAAIA=</HashCode>
+      <FileName>Entities\User\CompanyUser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ModelsLibrary.Entities.Manager" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAgAAAAACAACAIAQAAAAAAA=</HashCode>
+      <FileName>Entities\User\Manager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ModelsLibrary.Entities.Operator" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAgAAAAACAACAIAQAAAAAAA=</HashCode>
+      <FileName>Entities\User\Operator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ModelsLibrary.Interfaces.IBank">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAgAAAAAAACCAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\Bank\IBank.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ModelsLibrary.Interfaces.ITransaction">
+    <Position X="12.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAQ=</HashCode>
+      <FileName>Interfaces\Bank\ITransaction.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ModelsLibrary.Interfaces.IAdministrator">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\User\IAdministrator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ModelsLibrary.Interfaces.IBankAccount">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAAAAAAgAAAAAAAAAAAAAAAKAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\User\IBankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ModelsLibrary.Interfaces.IClientUser">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAABAAAAAQAAAAAAAAAAAABCCAAgAg=</HashCode>
+      <FileName>Interfaces\User\IClientUser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ModelsLibrary.Interfaces.ICompanyUser">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAACAAACCAAAAAAAAAIA=</HashCode>
+      <FileName>Interfaces\User\ICompanyUser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ModelsLibrary.Interfaces.IManager">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\User\IManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ModelsLibrary.Interfaces.IOperator">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\User\IOperator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ModelsLibrary.Interfaces.IUser" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAgAAAAACAACAIAQAAAAAAA=</HashCode>
+      <FileName>Interfaces\User\IUser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ModelsLibrary.Entities.EmployeeStatus">
+    <Position X="14" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAACAAAAAIAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Entities\Accounts\SalaryProjectAccount.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ModelsLibrary.Interfaces.TransactionStatus">
+    <Position X="15.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Interfaces\Bank\ITransaction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ModelsLibrary.Interfaces.UserStatus">
+    <Position X="17.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Interfaces\User\IClientUser.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ModelsLibrary.Interfaces.CompanyType">
+    <Position X="12.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAQBAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\User\ICompanyUser.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ModelsLibrary.Interfaces.UserType">
+    <Position X="19.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEABAAAAAAABAAAIAQ=</HashCode>
+      <FileName>Interfaces\User\IUser.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
