@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "A7qBtlcBe7vj25+3BJDHGhPI6HAOExBLI+UzWCmSpDVU2+morYG+Bgwbkg03jScCdeEp9xWqb5RFJdu3yCeuEg==",
+  "success": true,
+  "projectFilePath": "D:\\OOP\\lab2_2\\Plugin\\Plugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mmmag\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mmmag\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\mmmag\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\mmmag\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\mmmag\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\mmmag\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
